@@ -1,0 +1,39 @@
+/* .unlocked{
+  display: none;
+}
+
+.locked :hover{
+  display: none;
+  color: red;
+}
+
+.unlocked :hover::before{
+  display: inline-block;
+} */
+
+.par{
+  font-family: ParisParisienneien;
+}
+
+/* width image */
+.image {
+  height: 100%;
+  width: 100%;
+}
+.image-repair {
+  height: 25em;
+}
+
+/* redimension top thing complements tailwind */
+.top-40 {
+  top: 40%;
+}
+.top-70 {
+  top: 70%;
+}
+.top-80 {
+  top: 80%;
+}
+.top-85 {
+  top: 85%;
+}
